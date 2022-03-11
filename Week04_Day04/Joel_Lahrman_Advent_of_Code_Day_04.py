@@ -3,12 +3,6 @@ import requests
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-
-import itertools
-import requests
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 import collections
 
 # Challenge: https://adventofcode.com/2020/day/4#part1
